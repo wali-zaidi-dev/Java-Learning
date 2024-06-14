@@ -1,4 +1,4 @@
-public class TypeCasting {
+ class Main {
     public static void main(String[] args) {
         byte b = 127;
         int a = 12;
