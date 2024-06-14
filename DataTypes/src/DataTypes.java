@@ -1,4 +1,4 @@
-public class DataTypes {
+public class Main {
     public static void main(String[] args) {
         int a = 5;
         short b = 2;
