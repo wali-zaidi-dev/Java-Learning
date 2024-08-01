@@ -1,5 +1,5 @@
  class Calculator {
-    int a;
+   // int a;
     public int add(int a, int b) {
         int result = a + b;
         System.out.println(result);
