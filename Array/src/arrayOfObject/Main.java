@@ -29,8 +29,14 @@ public class Main {
         students[2] = s3;
 
         for (int i = 0; i < students.length; i++) {
-            System.out.println("Student Name = " + students[i].name + " & "  + "Student Age = " + students[i].age + " & " + "Student Grade = " + students[i].grade);
+            System.out.println("Student Name = " + students[i].name + " & " + "Student Age = " + students[i].age + " & " + "Student Grade = " + students[i].grade);
         }
 
+        System.out.println();
+
+        // Enhanced for() loop
+        for (Students s : students) {
+            System.out.println("Student Name = " + s.name + " & " + "Student Age = " + s.age + " & " + "Student Grade = " + s.grade);
+        }
     }
 }
