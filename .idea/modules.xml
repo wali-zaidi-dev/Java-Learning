@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/RelationalOperators/RelationalOperators.iml" filepath="$PROJECT_DIR$/RelationalOperators/RelationalOperators.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/StringBuffer/StringBuffer.iml" filepath="$PROJECT_DIR$/String/StringBuffer/StringBuffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwitchStatement/SwitchStatement.iml" filepath="$PROJECT_DIR$/SwitchStatement/SwitchStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" filepath="$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/TypeCasting/TypeCasting.iml" filepath="$PROJECT_DIR$/TypeCasting/TypeCasting.iml" />
